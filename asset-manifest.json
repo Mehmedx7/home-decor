@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.349bd819.css",
+    "main.js": "/static/js/main.700c18d9.js",
+    "static/js/787.50e072f5.chunk.js": "/static/js/787.50e072f5.chunk.js",
+    "static/media/img3.svg": "/static/media/img3.0f4ac5608bd3cd9488c50ce7be501659.svg",
+    "static/media/homeImg.svg": "/static/media/homeImg.5c6f07fc6f61eed2b04665ba8dcd8f9d.svg",
+    "static/media/img2.svg": "/static/media/img2.c27e4f31188fbff927ca239549c27b55.svg",
+    "static/media/featureImg.svg": "/static/media/featureImg.e83014a31ae6b5186eee25e90f8ee19e.svg",
+    "static/media/img1.svg": "/static/media/img1.68c4ab4534dff8d5d6c7d6501cbc05f5.svg",
+    "static/media/consultationImg.svg": "/static/media/consultationImg.97991f55e84be4fe785c78301043cffe.svg",
+    "static/media/logo-arch.svg": "/static/media/logo-arch.319352d608f745cf5bb609e703dae534.svg",
+    "static/media/consultationIcon2.svg": "/static/media/consultationIcon2.a95ecc02928b456a0ad8c4d9f4b8c006.svg",
+    "index.html": "/index.html",
+    "static/media/consultationIcon1.svg": "/static/media/consultationIcon1.de0b3b4f8b3a627e0a07448690379e13.svg",
+    "static/media/consultationIcon3.svg": "/static/media/consultationIcon3.7815850724100f0905fb327f96a0fe2c.svg",
+    "main.349bd819.css.map": "/static/css/main.349bd819.css.map",
+    "main.700c18d9.js.map": "/static/js/main.700c18d9.js.map",
+    "787.50e072f5.chunk.js.map": "/static/js/787.50e072f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.349bd819.css",
+    "static/js/main.700c18d9.js"
+  ]
+}
