@@ -1,2 +1,2 @@
 # home-decor
-[Demo](https://home-deco.netlify.app)
+[Demo](https://home-dco.netlify.app)
